@@ -21,7 +21,7 @@ I build government platforms, SaaS products, business systems, and workflow auto
 ### What I've shipped
 
 - **[PNPKI Tracker](https://pnpki.davaodelsur.gov.ph)** — Laravel gov platform for PKI certificate tracking
-- **[Vindeto](https://vindeto.vercel.app)** — Shopify product audit SaaS
+- **[Dalmy](https://dalmy.darkinlord.com)** — open-source bill & lending tracker
 - **[n8n Workflows](https://workflows.darkinlord.com)** — automation workflows that connect apps and cut manual work
 
 ### Reach me
