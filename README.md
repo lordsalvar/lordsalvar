@@ -31,4 +31,4 @@ I build government platforms, SaaS products, business systems, and workflow auto
 - 💼 [LinkedIn](https://www.linkedin.com/in/lordcigelsalvar/)
 - 🐙 You're already here
 
-⚡ When I'm not coding: crayfish farm, Black Desert Online, and coffee.
+⚡ When I'm not coding: Classic bikes and coffee.
