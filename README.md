@@ -2,7 +2,7 @@
 
 I'm **Lord Cigel Salvar** — a Software Engineer / Automation Engineer from **Davao City, Philippines**.
 
-I build government platforms, SaaS products, business systems, and workflow automations — things people actually rely on, not just demos.
+I build government platforms, business systems, and workflow automations — things people actually rely on, not just demos.
 
 ### Stack
 
